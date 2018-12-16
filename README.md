@@ -1,7 +1,7 @@
 ## Description
 In this Arduino Project I have created an animation of [Skeletor](https://en.wikipedia.org/wiki/Skeletor) on a 0.96" OLED display using a Genuino/Arduino UNO.
 
-<img src="final.jpg" width="500px">
+<img src="final.jpg" height="300px">
 
 ## Hardware Requirements :
 1. 0.96" I2C OLED display.
